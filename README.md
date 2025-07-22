@@ -18,5 +18,5 @@ Welcome to my collection of 30+ Angular projects. These projects demonstrate fro
 
 I’m Ahmad, a freelance Angular + .NET developer building production-ready apps and beautiful frontend experiences.  
 🌐 [Visit My Website](https://ahmadev.site)  
-📬 [Hire Me on LinkedIn](https://www.linkedin.com/in/ahmad](https://www.linkedin.com/in/muhammad-ahmad-784271337))
+📬 [Hire Me on LinkedIn](https://www.linkedin.com/in/ahmad](https://www.linkedin.com/in/muhammad-ahmad-784271337)
 
