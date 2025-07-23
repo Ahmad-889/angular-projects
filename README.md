@@ -9,6 +9,8 @@ Welcome to my collection of 30+ Angular projects. These projects demonstrate fro
 | # | Project Name        | Description                         | Live Demo        | GitHub Repo                  |
 |---|---------------------|-------------------------------------|------------------|------------------------------|
 | 1 | Profile Card       | Simple profile card UI component     | [Live](https://Ahmad-889.github.io/angular-profile-card/) | [Repo](https://github.com/Ahmad-889/angular-profile-card)     |
+| 2  | Counter       | Increment & Decrement Counter | [Live](https://ahmad-889.github.io/angular-counter/) | [Repo](https://github.com/Ahmad-889/angular-counter)   |
+
 
 > 🔗 More projects coming soon...
 
