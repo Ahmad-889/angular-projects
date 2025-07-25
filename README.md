@@ -11,6 +11,7 @@ Welcome to my collection of 30+ Angular projects. These projects demonstrate fro
 | 1 | Profile Card       | Simple profile card UI component     | [Live](https://Ahmad-889.github.io/angular-profile-card/) | [Repo](https://github.com/Ahmad-889/angular-profile-card)     |
 | 2  | Counter       | Increment & Decrement Counter | [Live](https://ahmad-889.github.io/angular-counter/) | [Repo](https://github.com/Ahmad-889/angular-counter)   |
 | 3  | Simple Todo Card      | Add and remove your daily tasks | [Live](https://ahmad-889.github.io/angular-todo/) | [Repo](https://github.com/Ahmad-889/angular-todo)   |
+| 4  | Stop Watch      | Simple Stopwatch with start/stop and reset button | [Live](https://ahmad-889.github.io/stopwatch/) | [Repo](https://github.com/Ahmad-889/stopwatch)   |
 
 
 
