@@ -12,6 +12,7 @@ Welcome to my collection of 30+ Angular projects. These projects demonstrate fro
 | 2  | Counter       | Increment & Decrement Counter | [Live](https://ahmad-889.github.io/angular-counter/) | [Repo](https://github.com/Ahmad-889/angular-counter)   |
 | 3  | Simple Todo Card      | Add and remove your daily tasks | [Live](https://ahmad-889.github.io/angular-todo/) | [Repo](https://github.com/Ahmad-889/angular-todo)   |
 | 4  | Stop Watch      | Simple Stopwatch with start/stop and reset button | [Live](https://ahmad-889.github.io/stopwatch/) | [Repo](https://github.com/Ahmad-889/stopwatch)   |
+| 5  | Guess number Game     | A number guessing game  | [Live](https://ahmad-889.github.io/guess-number/) | [Repo](https://github.com/Ahmad-889/guess-number)   |
 
 
 
