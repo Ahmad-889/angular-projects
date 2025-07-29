@@ -15,6 +15,7 @@ Welcome to my collection of 30+ Angular projects. These projects demonstrate fro
 | 5  | Guess number Game     | A number guessing game  | [Live](https://ahmad-889.github.io/guess-number/) | [Repo](https://github.com/Ahmad-889/guess-number)   |
 | 6  | Tic Tac Toe      | Famous Tic Tac toe in Angular  | [Live](https://ahmad-889.github.io/tic-tac-toe/) | [Repo](https://github.com/Ahmad-889/tic-tac-toe)   |
 | 7  | Paper Rock Scissor      | Famous Paper Rock Scissor in Angular  | [Live](https://ahmad-889.github.io/paper-rock-scissor/) | [Repo](https://github.com/Ahmad-889/paper-rock-scissor)   |
+| 8  | FAQ Accordin       | FAQ According component in ANgular  | [Live](https://ahmad-889.github.io/faq-accordin/) | [Repo](https://github.com/Ahmad-889/faq-accordin)   |
 
 
 
