@@ -16,6 +16,7 @@ Welcome to my collection of 30+ Angular projects. These projects demonstrate fro
 | 6  | Tic Tac Toe      | Famous Tic Tac toe in Angular  | [Live](https://ahmad-889.github.io/tic-tac-toe/) | [Repo](https://github.com/Ahmad-889/tic-tac-toe)   |
 | 7  | Paper Rock Scissor      | Famous Paper Rock Scissor in Angular  | [Live](https://ahmad-889.github.io/paper-rock-scissor/) | [Repo](https://github.com/Ahmad-889/paper-rock-scissor)   |
 | 8  | FAQ Accordin       | FAQ According component in ANgular  | [Live](https://ahmad-889.github.io/faq-accordin/) | [Repo](https://github.com/Ahmad-889/faq-accordin)   |
+| 9  | Joke Generator       | Joke Generator component in ANgular  | [Live](https://ahmad-889.github.io/joke-generator/) | [Repo](https://github.com/Ahmad-889/joke-generator)   |
 
 
 
