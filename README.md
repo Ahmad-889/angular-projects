@@ -1,6 +1,6 @@
 # 🚀 Ahmad's Angular Project Showcase
 
-Welcome to my collection of 30+ Angular projects. These projects demonstrate frontend architecture, component design, state management, APIs, real-time features, and more — all built with Angular 16–19.
+Welcome to my collection of 30+ Angular projects. These projects demonstrate frontend architecture, component design, state management, APIs, real-time features, and more — all built with Angular 19.
 
 ---
 
@@ -18,6 +18,7 @@ Welcome to my collection of 30+ Angular projects. These projects demonstrate fro
 | 8  | FAQ Accordin       | FAQ According component in Angular  | [Live](https://ahmad-889.github.io/faq-accordin/) | [Repo](https://github.com/Ahmad-889/faq-accordin)   |
 | 9  | Joke Generator       | Joke Generator component in Angular  | [Live](https://ahmad-889.github.io/joke-generator/) | [Repo](https://github.com/Ahmad-889/joke-generator)   |
 | 10  | Infinite Scroll       | Infinite Scroll Post   | [Live](https://ahmad-889.github.io/infinite-scroll/) | [Repo](https://github.com/Ahmad-889/infinite-scroll)   |
+| 11  | Analog Clock      | Analog Clock in ANgular   | [Live](https://ahmad-889.github.io/clock/) | [Repo](https://github.com/Ahmad-889/clock)   |
 
 
 
