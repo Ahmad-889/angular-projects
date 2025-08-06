@@ -22,6 +22,7 @@ Welcome to my collection of 30+ Angular projects. These projects demonstrate fro
 | 12  | Feedback Form     | Feedback Form in Angular   | [Live](https://ahmad-889.github.io/feedback-form/) | [Repo](https://github.com/Ahmad-889/feedback-form/)   |
 | 13  | Contact Form     | Contact Form in Angular   | [Live](https://ahmad-889.github.io/contact-form/) | [Repo](https://github.com/Ahmad-889/contact-form)   |
 | 14  | Custom Directives    | Custom Directives in Angular   | [Live](https://ahmad-889.github.io/custom-directives/) | [Repo](https://github.com/Ahmad-889/custom-directives)   |
+| 15  | Angular Calculator App    | Calculator in Angular   | [Live](https://ahmad-889.github.io/calculator/) | [Repo](https://github.com/Ahmad-889/calculator)   |
 
 
 
