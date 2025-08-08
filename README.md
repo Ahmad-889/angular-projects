@@ -24,6 +24,7 @@ Welcome to my collection of 30+ Angular projects. These projects demonstrate fro
 | 14  | Custom Directives    | Custom Directives in Angular   | [Live](https://ahmad-889.github.io/custom-directives/) | [Repo](https://github.com/Ahmad-889/custom-directives)   |
 | 15  | Angular Calculator App    | Calculator in Angular   | [Live](https://ahmad-889.github.io/calculator/) | [Repo](https://github.com/Ahmad-889/calculator)   |
 | 16  | Currency Converter App    | Currency Converter in Angular   | [Live](https://ahmad-889.github.io/currency-converter/) | [Repo](https://github.com/Ahmad-889/currency-converter)   |
+| 17  | Weather App    | Weather App in Angular   | [Live](https://ahmad-889.github.io/weather/) | [Repo](https://github.com/Ahmad-889/weather)   |
 
 
 
