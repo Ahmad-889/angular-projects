@@ -25,6 +25,7 @@ Welcome to my collection of 30+ Angular projects. These projects demonstrate fro
 | 15  | Angular Calculator App    | Calculator in Angular   | [Live](https://ahmad-889.github.io/calculator/) | [Repo](https://github.com/Ahmad-889/calculator)   |
 | 16  | Currency Converter App    | Currency Converter in Angular   | [Live](https://ahmad-889.github.io/currency-converter/) | [Repo](https://github.com/Ahmad-889/currency-converter)   |
 | 17  | Weather App    | Weather App in Angular   | [Live](https://ahmad-889.github.io/weather/) | [Repo](https://github.com/Ahmad-889/weather)   |
+| 18  | Emoji Search App    | Emoji Search in Angular   | [Live](https://ahmad-889.github.io/emoji-search/) | [Repo](https://github.com/Ahmad-889/emoji-search)   |
 
 
 
