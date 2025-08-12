@@ -27,6 +27,7 @@ Welcome to my collection of 30+ Angular projects. These projects demonstrate fro
 | 17  | Weather App    | Weather App in Angular   | [Live](https://ahmad-889.github.io/weather/) | [Repo](https://github.com/Ahmad-889/weather)   |
 | 18  | Emoji Search App    | Emoji Search in Angular   | [Live](https://ahmad-889.github.io/emoji-search/) | [Repo](https://github.com/Ahmad-889/emoji-search)   |
 | 19  | Crypto Charts    | Crypto Charts in Angular   | [Live](https://ahmad-889.github.io/crypto-charts/) | [Repo](https://github.com/Ahmad-889/crypto-charts)   |
+| 20 | Calendar    | Calendar in Angular   | [Live](https://ahmad-889.github.io/calendar/) | [Repo](https://github.com/Ahmad-889/calendar)   |
 
 
 
