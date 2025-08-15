@@ -29,6 +29,7 @@ Welcome to my collection of 30+ Angular projects. These projects demonstrate fro
 | 19  | Crypto Charts    | Crypto Charts in Angular   | [Live](https://ahmad-889.github.io/crypto-charts/) | [Repo](https://github.com/Ahmad-889/crypto-charts)   |
 | 20 | Calendar    | Calendar in Angular   | [Live](https://ahmad-889.github.io/calendar/) | [Repo](https://github.com/Ahmad-889/calendar)   |
 | 21 | Checkers Game    | Checkers Game in Angular   | [Live](https://ahmad-889.github.io/checkers/) | [Repo](https://github.com/Ahmad-889/checkers)   |
+| 22 | Password Generator & Security Checker    | Password Security in Angular   | [Live](https://ahmad-889.github.io/password-security/) | [Repo](https://github.com/Ahmad-889/password-security)   |
 
 
 
