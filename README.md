@@ -31,6 +31,7 @@ Welcome to my collection of 30+ Angular projects. These projects demonstrate fro
 | 21 | Checkers Game    | Checkers Game in Angular   | [Live](https://ahmad-889.github.io/checkers/) | [Repo](https://github.com/Ahmad-889/checkers)   |
 | 22 | Password Generator & Security Checker    | Password Security in Angular   | [Live](https://ahmad-889.github.io/password-security/) | [Repo](https://github.com/Ahmad-889/password-security)   |
 | 23 | Minesweeper   | Minesweeper Game in Angular   | [Live](https://ahmad-889.github.io/minesweeper/) | [Repo](https://github.com/Ahmad-889/minesweeper)   |
+| 24 | User Management App   | Complete CRUD for user management app   | [Live](https://ahmad-889.github.io/user-management/) | [Repo](https://github.com/Ahmad-889/user-management)   |
 
 
 
