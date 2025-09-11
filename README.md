@@ -1,4 +1,4 @@
-# 🚀 Ahmad's Angular Project Showcase
+# 🚀  Angular Project Showcase
 
 Welcome to my collection of 30+ Angular projects. These projects demonstrate frontend architecture, component design, state management, APIs, real-time features, and more — all built with Angular 19.
 
@@ -32,6 +32,7 @@ Welcome to my collection of 30+ Angular projects. These projects demonstrate fro
 | 22 | Password Generator & Security Checker    | Password Security in Angular   | [Live](https://ahmad-889.github.io/password-security/) | [Repo](https://github.com/Ahmad-889/password-security)   |
 | 23 | Minesweeper   | Minesweeper Game in Angular   | [Live](https://ahmad-889.github.io/minesweeper/) | [Repo](https://github.com/Ahmad-889/minesweeper)   |
 | 24 | User Management App   | Complete CRUD for user management app   | [Live](https://ahmad-889.github.io/user-management/) | [Repo](https://github.com/Ahmad-889/user-management)   |
+| 25 | Resume Builder App   | Complete Resume Builder App   | [Live](https://ahmad-889.github.io/resume-builder/) | [Repo](https://github.com/Ahmad-889/resume-builder)   |
 
 
 
