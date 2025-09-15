@@ -34,8 +34,6 @@ Welcome to my collection of 30+ Angular projects. These projects demonstrate fro
 | 24 | User Management App   | Complete CRUD for user management app   | [Live](https://ahmad-889.github.io/user-management/) | [Repo](https://github.com/Ahmad-889/user-management)   |
 | 25 | Resume Builder App   | Complete Resume Builder App   | [Live](https://ahmad-889.github.io/resume-builder/) | [Repo](https://github.com/Ahmad-889/resume-builder)   |
 
-
-
 > 🔗 More projects coming soon...
 
 ---
@@ -45,4 +43,3 @@ Welcome to my collection of 30+ Angular projects. These projects demonstrate fro
 I’m Ahmad, a freelance Angular + .NET developer building production-ready apps and beautiful frontend experiences.  
 🌐 [Visit My Website](https://ahmadev.site)  
 📬 [Hire Me on LinkedIn](https://linkedin.com/in/muhammad-ahmad-784271337)
-
